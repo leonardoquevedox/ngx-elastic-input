@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgxElasticInputDirectiveModule } from './public_api';
+export { NgxElasticInputDirective as ɵa } from './ngx-elastic-input.directive';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4LWJhbmstYWNjb3VudC1ici5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1iYW5rLWFjY291bnQtYnIvIiwic291cmNlcyI6WyJuZ3gtYmFuay1hY2NvdW50LWJyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSwrQ0FBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLHdCQUF3QixJQUFJLEVBQUUsRUFBQyxNQUFNLCtCQUErQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge05neEVsYXN0aWNJbnB1dERpcmVjdGl2ZSBhcyDJtWF9IGZyb20gJy4vbmd4LWVsYXN0aWMtaW5wdXQuZGlyZWN0aXZlJzsiXX0=
